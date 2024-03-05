@@ -23,4 +23,4 @@ Para publicar a imagem, primeiro faça login no Docker Hub:
 docker login
 Em seguida, publique a imagem:
 
-docker push seuuser/fullcycle
+docker push <seu-user>//fullcycle
