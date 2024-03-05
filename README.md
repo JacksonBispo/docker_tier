@@ -24,3 +24,5 @@ docker login
 Em seguida, publique a imagem:
 
 docker push <seu-user>//fullcycle
+
+https://hub.docker.com/repository/docker/jacks775/fullcycle/general
