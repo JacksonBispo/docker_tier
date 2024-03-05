@@ -1,6 +1,6 @@
 
 Projeto Full Cycle em Go
-Este é um projeto empolgante que demonstra como criar uma imagem Docker mínima em Go. O principal objetivo é imprimir a mensagem "Full Cycle Rocks!!" quando a imagem Docker for executada.
+Este é um projeto que demonstra como criar uma imagem Docker mínima em Go. O principal objetivo é imprimir a mensagem "Full Cycle Rocks!!" quando a imagem Docker for executada.
 
 Como usar
 Para usar esta imagem, você pode executar o seguinte comando:
